@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/108236580/211393382-2f267c44-f9bb-4189-94cc-8aa319378820.png)
 
-Churn prediction is identifying customers that are most likely to live a service. This is important for most companies as acquiring new customers is more costlier than retaining old ones, So the results of Churn prediction help companies focus on customers that are likely to churn and develop strategies for retaining those customers. Once you can identify those customers that are at risk of leaving, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
+Churn prediction is identifying customers that are most likely to leave a service. This is important for most companies as acquiring new customers is more costlier than retaining old ones, So the results of Churn prediction help companies focus on customers that are likely to churn and develop strategies for retaining those customers. Once you can identify those customers that are at risk of leaving, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
 
 Different customers exhibit different behaviours and preferences, so they cancel their service for various reasons. It is critical, therefore, to proactively communicate with each of them in order to retain them in your customer list. You need to know which marketing action will be the most effective for each and every customer, and when it will be most effective.
 
