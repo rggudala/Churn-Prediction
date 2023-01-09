@@ -42,3 +42,7 @@ Here comes the need of Customer churn Analysis and Prediction. Ecommerce dataset
 6. Conclusion
 
 ####  Thank You!
+
+References: 
+https://www.avaus.com/blog/predicting-customer-churn/
+https://www.kaggle.com/code/sukruthag/ecommerce-customer-churn-analysis-and-prediction/data
