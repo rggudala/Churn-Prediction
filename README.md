@@ -1,7 +1,7 @@
 # Churn-Prediction
 ## E-commerce Customer Churn Analysis and Prediction
 
-![image](https://user-images.githubusercontent.com/108236580/211393382-2f267c44-f9bb-4189-94cc-8aa319378820.png)
+![image](https://user-images.githubusercontent.com/108236580/213943864-4d516bf1-aebd-48fa-8025-03d0df7430fb.png)
 
 Churn prediction is identifying customers that are most likely to leave a service. This is important for most companies as acquiring new customers is more costlier than retaining old ones, So the results of Churn prediction help companies focus on customers that are likely to churn and develop strategies for retaining those customers. Once you can identify those customers that are at risk of leaving, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
 
